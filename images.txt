@@ -1,6 +1,8 @@
-nginx
-alpine
-jenkins/jenkins
-maven
-openjdk
-zookeeper
+# nginx
+# alpine
+# jenkins/jenkins
+# maven
+# openjdk
+# zookeeper
+openjdk:8-jdk-slim-stretch
+maven:3.8.5-jdk-8
